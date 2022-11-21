@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Socket_Test</string>
+    <string name="name_setting">이름을 입력하세요</string>
+</resources>
